@@ -49,7 +49,7 @@ Gosto de: estudar📚, ler📖, ouvir música🎵, tocar guitarra🎸, programar
 
 **Onde me encontrar**
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-lamartine/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugolamartine/)
 <!--
 **HugoLamartine/HugoLamartine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
